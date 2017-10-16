@@ -1,0 +1,4 @@
+following file neuro.m implements backpropagation algorithm on mnist dataset.
+The dataset consist of 60000 images each with dimensions 28x28.
+The  code works on csv file of the dataset.
+The csv file for training set and test set can be downloaded from https://pjreddie.com/projects/mnist-in-csv/.
